@@ -1,0 +1,21 @@
+
+body{
+  background-color: #fafafa;
+}
+
+
+.todo-link{
+  font-family: 'Helvetica Neue', sans-serif;
+  text-decoration: none;
+  color: #999;
+  font-size: 3rem;
+  font-weight: 200;
+
+  
+  margin-top: 100px;
+  text-align: center;
+  
+  display: block;
+
+
+}
